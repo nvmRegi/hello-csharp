@@ -13,5 +13,5 @@ string mesePrefe = Console.ReadLine();
 #pragma warning restore CS8600 // Converting null literal or possible null value to non-nullable type.
 
 
-Console.WriteLine("Il tuo mese preferito è: " + mesePrefe);
+Console.WriteLine("Il tuo mese preferito è: " + mesePrefe + "!");
 Console.WriteLine("Grazie per aver utilizzato questo programma!");
